@@ -4,3 +4,5 @@ Focusing on simplicity and usability, the project emphasizes hands-on learning a
 
 This project was developed with guidance from the tutorial available at this YouTube video, which provided valuable insights into building Sudoku games:
 https://www.youtube.com/watch?v=S4uRtTb8U-U&list=PLnKe36F30Y4bLhA-st9sC4ZthyV7nsL2Q&index=18
+
+![Ekran Alıntısı](https://github.com/user-attachments/assets/0f48e933-c43c-435c-8c43-481765bc1a76)
